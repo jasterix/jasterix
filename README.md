@@ -2,9 +2,11 @@
 
 ---
 
-<img align="left" alt="Jasterix's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasterixra&layout=compact" />
+<img align="left" width="100%%" src="https://github-readme-stats.vercel.app/api?username=jasterix&show_icons=true&count_private=true?theme=algolia" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasterix&show_icons=true&count_private=true?bg_color=#000000&icon_color=FFFFFF&text_color=000000" />
+<img align="left" alt="Jasterix's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasterix&layout=compact&theme=algolia&sshow_icons=true" />
+
+---
 
 ### Latest blog posts
 

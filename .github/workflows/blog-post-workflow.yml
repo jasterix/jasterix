@@ -1,12 +1,10 @@
 name: Latest blog post workflow
-
 on:
   schedule:
     # Runs every hour
-    - cron: "0 * * * *"
-
+    - cron: '0 * * * *'
     # enable to manually run cron job
-    workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -16,4 +14,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          commit_message: "Updated readme with the latest blog posts"
           feed_list: "https://dev.to/feed/jasterix"

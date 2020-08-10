@@ -1,4 +1,6 @@
-# Hello
-# Blog posts
+# Hello, there
+
+### Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

@@ -55,9 +55,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What was the most irritating quirk for you when you learned another language or stack?](https://dev.to/jasterix/what-was-the-most-irritating-change-for-you-when-you-learned-another-language-or-stack-2kpd)
 - [How do you fight joint pain in your hands and wrists?](https://dev.to/jasterix/how-do-you-fight-joint-pain-2ib8)
 - [Do you have a markdown resume?](https://dev.to/jasterix/do-you-have-a-markdown-resume-5ao5)
 - [What's the best way to deeply clone an object in JavaScript?](https://dev.to/jasterix/what-s-the-best-way-to-deeply-clone-an-object-in-javascript-4nb6)
 - [6 Java language resources to get you started](https://dev.to/jasterix/6-java-learning-resources-to-get-you-started-442b)
-- [Has any jr devs implemented Anki / spaced repetition in their study habits?](https://dev.to/jasterix/has-any-jr-devs-implemented-anki-spaced-repetition-in-their-study-habits-347o)
 <!-- BLOG-POST-LIST:END -->

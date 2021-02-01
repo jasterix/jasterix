@@ -55,9 +55,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is happening under the hood when you use toString(2) in JavaScript?](https://dev.to/jasterix/what-is-happening-under-the-hood-when-you-use-tostring-2-in-javascript-2f19)
 - [3 top-tier apprenticeships you should apply to](https://dev.to/jasterix/3-top-tier-apprenticeships-you-should-apply-to-3cmd)
 - [Share your favorite job negotiation story](https://dev.to/jasterix/share-your-job-negotiation-stories-25im)
 - [How did you break the habit of writing procedural code?](https://dev.to/jasterix/how-did-you-break-the-habit-of-writing-procedural-code-13l6)
 - [Writer's Block: I don't know how to write anymore](https://dev.to/jasterix/writer-s-block-i-don-t-know-how-to-write-anymore-bce)
-- [What was the most irritating quirk for you when you learned another language or stack?](https://dev.to/jasterix/what-was-the-most-irritating-change-for-you-when-you-learned-another-language-or-stack-2kpd)
 <!-- BLOG-POST-LIST:END -->

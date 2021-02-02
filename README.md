@@ -68,3 +68,12 @@
 - [How did you break the habit of writing procedural code?](https://dev.to/jasterix/how-did-you-break-the-habit-of-writing-procedural-code-13l6)
 - [Writer's Block: I don't know how to write anymore](https://dev.to/jasterix/writer-s-block-i-don-t-know-how-to-write-anymore-bce)
 <!-- BLOG-POST-LIST:END -->
+
+<hr/>
+
+### A little about my GitHub:
+
+#### ✨ Visitors 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasterix&show_icons=true) 

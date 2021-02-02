@@ -1,10 +1,6 @@
-# Hello, there
+# Hey, world, I'm Loune!
 
----
-- 🌱 I’m currently learning everything about software engineering
-- 🥅 2020 Goals: More projects, more testing, more JS and Java fundamentals
-
-### Connect with me:
+### Wanna chat? Connect with me on my socials:
 <a target="_blank" href="loune.dev">
 <img align="left" alt="Loune's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -25,6 +21,7 @@
 </a>
 <br />
 
+#### Here's a little bit of what I've been doing and learning. Originally, I was a web developer. But more recently, I've transitioned to a mostly backend role, with a splash of DevOps. 
 ## Languages and Tools
 
 #### Languages:

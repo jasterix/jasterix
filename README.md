@@ -1,6 +1,6 @@
-# Hey, world, I'm Loune!
+# Hey, world
 
-### Wanna chat? Connect with me on my socials:
+### Connect with me on my socials:
 <a target="_blank" href="loune.dev">
 <img align="left" alt="Loune's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -63,7 +63,7 @@
 
 ---
 
-### Latest blog posts
+### Check out somethings I've written:
 
 <!-- BLOG-POST-LIST:START -->
 - [What is happening under the hood when you use toString(2) in JavaScript?](https://dev.to/jasterix/what-is-happening-under-the-hood-when-you-use-tostring-2-in-javascript-2f19)

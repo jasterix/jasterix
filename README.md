@@ -20,9 +20,9 @@
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+<hr />
 
-#### Here's a little bit of what I've been doing and learning. Originally, I was a web developer. But more recently, I've transitioned to a mostly backend role, with a splash of DevOps. 
-## Languages and Tools
+### Originally, I was a web developer. But more recently, I've transitioned to a mostly backend role, with a splash of DevOps. Here's a little bit of what I've been doing and learning.
 
 #### Languages:
 

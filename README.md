@@ -22,7 +22,9 @@
 <br />
 <hr />
 
-### Originally, I was a web developer. But more recently, I've transitioned to a mostly backend role, with a splash of DevOps. Here's a little bit of what I've been doing and learning.
+### Originally, I was a web developer. But I recently transitioned to a mostly backend role, with a splash of DevOps. 
+<br/>
+### Here's a little bit of what I've been doing and learning.
 
 #### Languages:
 

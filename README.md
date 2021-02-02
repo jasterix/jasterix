@@ -1,5 +1,9 @@
 # Hey, world, I'm Loune!
 
+br/>
+
+br/>
+
 ### Wanna chat? Connect with me on my socials:
 <a target="_blank" href="loune.dev">
 <img align="left" alt="Loune's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -22,9 +26,9 @@
 <br />
 <hr />
 
-### Originally, I was a web developer. But I recently transitioned to a mostly backend role, with a splash of DevOps. 
+### Originally, I was a web developer. But I recently transitioned to a mostly backend role, with a splash of DevOps. Here's what I've been doing and learning.
+
 <br/>
-### Here's a little bit of what I've been doing and learning.
 
 #### Languages:
 

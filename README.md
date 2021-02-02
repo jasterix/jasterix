@@ -2,8 +2,6 @@
 
 <br/>
 
-<br/>
-
 ### Wanna chat? Connect with me on my socials:
 <a target="_blank" href="loune.dev">
 <img align="left" alt="Loune's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />

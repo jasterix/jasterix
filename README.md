@@ -62,11 +62,11 @@
 ### Check out somethings I've written:
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't attend a bootcamp in 2021](https://dev.to/jasterix/don-t-attend-a-bootcamp-in-2021-3l4b)
 - [3 apprenticeships you should apply to in 2021 (part 2)](https://dev.to/jasterix/3-apprenticeship-programs-available-this-year-1pl8)
 - [How did you spend the 2 weeks before your first dev job?](https://dev.to/jasterix/how-did-you-spend-the-2-weeks-before-your-first-dev-job-1l99)
 - [What is happening under the hood when you use toString(2) in JavaScript?](https://dev.to/jasterix/what-is-happening-under-the-hood-when-you-use-tostring-2-in-javascript-2f19)
 - [3 top-tier apprenticeships you should apply to (part 1)](https://dev.to/jasterix/3-top-tier-apprenticeships-you-should-apply-to-3cmd)
-- [Share your favorite job negotiation story](https://dev.to/jasterix/share-your-job-negotiation-stories-25im)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>

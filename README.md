@@ -22,7 +22,7 @@
 <br />
 <hr />
 
-### Originally, I was a web developer. But I recently transitioned to a mostly backend role, with a splash of DevOps. Here's what I've been doing and learning.
+Here's what I've been doing and learning.
 #### Languages:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

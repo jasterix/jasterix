@@ -62,11 +62,11 @@
 ### Check out somethings I've written:
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring git sparse checkout](https://dev.to/jasterix/exploring-git-sparse-checkout-4ja6)
 - [Writing a PR description](https://dev.to/jasterix/writing-a-pr-description-5ap2)
 - [How do you stay engaged during technical talks?](https://dev.to/jasterix/how-do-you-stay-engaged-during-technical-talks-5dk2)
 - [15+ Structured learning alternatives better than a bootcamp](https://dev.to/jasterix/15-structured-learning-alternatives-better-than-a-bootcamp-2ghb)
 - [dev.to bug with creating a new post](https://dev.to/jasterix/dev-to-bug-with-creating-a-new-post-3809)
-- [Don't attend a bootcamp in 2021](https://dev.to/jasterix/don-t-attend-a-bootcamp-in-2021-3l4b)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>

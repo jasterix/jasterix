@@ -62,11 +62,11 @@
 ### Check out somethings I've written:
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s your favorite notetaking app?](https://dev.to/jasterix/whats-your-favorite-notetaking-app-6mf)
 - [3 more apprenticeship programs to consider](https://dev.to/jasterix/3-more-apprenticeship-programs-to-consider-21ia)
 - [WTH is a ConfigurationBuilder?](https://dev.to/jasterix/wth-is-a-configurationbuilder-1hdl)
 - [Exploring git sparse checkout](https://dev.to/jasterix/exploring-git-sparse-checkout-4ja6)
 - [Writing a PR description](https://dev.to/jasterix/writing-a-pr-description-5ap2)
-- [How do you stay engaged during technical talks?](https://dev.to/jasterix/how-do-you-stay-engaged-during-technical-talks-5dk2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>

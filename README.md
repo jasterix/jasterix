@@ -62,7 +62,7 @@
 ### Check out somethings I've written:
 
 <!-- BLOG-POST-LIST:START -->
-- [Obsidian: trouble in paradise](https://dev.to/jasterix/obsidian-trouble-in-paradise-18da)
+- [Obsidian.md trouble in paradise](https://dev.to/jasterix/obsidian-trouble-in-paradise-18da)
 - [Anyone else feeling exhausted all the time?](https://dev.to/jasterix/anyone-else-feeling-exhausted-all-the-time-1e91)
 - [What are the first 10 apps you install on a new computer?](https://dev.to/jasterix/what-are-the-first-10-apps-you-install-on-a-new-computer-2gik)
 - [What&#39;s your favorite notetaking app?](https://dev.to/jasterix/whats-your-favorite-notetaking-app-6mf)

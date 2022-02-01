@@ -1,6 +1,6 @@
 # Hey, world :wave::earth_africa:
 
-### Connect with me on my socials:
+#### Online presence:
 <a target="_blank" href="loune.dev">
 <img align="left" alt="Loune's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -14,9 +14,8 @@
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
-<hr />
 
-#### Technologies
+#### Technologies:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,9 +27,7 @@
 
 <br />
 
----
-
-### Most recent blog posts
+#### Recent blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Obsidian.md trouble in paradise](https://dev.to/jasterix/obsidian-trouble-in-paradise-18da)

@@ -35,11 +35,11 @@ I've recently started doing more with web technologies again after 12 months in 
 #### Recent blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 things you like about being an engineer?](https://dev.to/jasterix/top-3-things-you-like-about-being-an-engineer-2pdd)
 - [Obsidian.md trouble in paradise](https://dev.to/jasterix/obsidian-trouble-in-paradise-18da)
 - [Anyone else feeling exhausted all the time?](https://dev.to/jasterix/anyone-else-feeling-exhausted-all-the-time-1e91)
 - [What are the first 10 apps you install on a new computer?](https://dev.to/jasterix/what-are-the-first-10-apps-you-install-on-a-new-computer-2gik)
 - [What&#39;s your favorite notetaking app?](https://dev.to/jasterix/whats-your-favorite-notetaking-app-6mf)
-- [3 more apprenticeship programs to consider](https://dev.to/jasterix/3-more-apprenticeship-programs-to-consider-21ia)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>

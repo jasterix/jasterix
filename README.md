@@ -8,7 +8,7 @@ I've recently started doing more with web technologies again after 12 months in 
 [![Readne Card](https://github-readme-stats.vercel.app/api/pin/?username=jasterix&repo=randomNetflixApp)](https://github.com/jasterix/randomNetflixApp)
 
 #### Online presence:
-<a target="_blank" href="loune.dev">
+<a target="_blank" href="https://loune.dev">
 <img align="left" alt="Loune's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a target="_blank" href="https://dev.to/jasterix">

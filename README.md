@@ -5,6 +5,7 @@ I've recently started doing more with web technologies again after 12 months in 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasterix&repo=Markdown-to-HTML-Converter)](https://github.com/jasterix/Markdown-to-HTML-Converter) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasterix&repo=codepen-clone)](https://github.com/jasterix/codepen-clone)
 [![Readne Card](https://github-readme-stats.vercel.app/api/pin/?username=jasterix&repo=randomNetflixApp)](https://github.com/jasterix/randomNetflixApp)
+[![Readne Card](https://github-readme-stats.vercel.app/api/pin/?username=jasterix&repo=BadgeMeUp)(https://github.com/jasterix/BadgeMeUp)
 
 #### Online presence:
 <a target="_blank" href="loune.dev">
